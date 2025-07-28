@@ -1,0 +1,120 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB607",
+  "title": "RELATING TO FIREWORKS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Felonies",
+    "Fireworks",
+    "Offense",
+    "Penalties"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Establishes the Class A felony-level offense of serious bodily injury or death resulting from fireworks."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to JHA, referral sheet 2",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "SOUZA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SOUZA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "KONG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KONG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "TAM",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"TAM\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB607",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB607_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB607_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=607&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "scraped_at": "2025-07-28T05:42:50+00:00",
+  "_id": "b2f0a700-6b75-11f0-998b-f6e0cb0ae75a"
+}

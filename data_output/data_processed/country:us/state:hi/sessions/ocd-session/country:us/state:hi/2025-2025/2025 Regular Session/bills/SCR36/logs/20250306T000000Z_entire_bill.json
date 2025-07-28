@@ -1,0 +1,96 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SCR36",
+  "title": "RELATING TO THE SALARIES OF CERTAIN STATE OFFICIALS.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "REJECTING THE 2025 COMMISSION ON SALARIES RECOMMENDATIONS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to WAM.",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Offered.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "AWA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"AWA\"}",
+      "organization_id": null
+    },
+    {
+      "name": "DECORTE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"DECORTE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SCR36",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR36_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SCR36_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=36&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "scraped_at": "2025-07-28T05:51:44+00:00",
+  "_id": "f112a618-6b76-11f0-998b-f6e0cb0ae75a"
+}

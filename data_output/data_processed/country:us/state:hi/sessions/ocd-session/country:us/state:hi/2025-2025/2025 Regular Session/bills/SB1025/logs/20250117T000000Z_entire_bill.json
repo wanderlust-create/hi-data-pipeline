@@ -1,0 +1,157 @@
+{
+  "legislative_session": "2025",
+  "identifier": "SB1025",
+  "title": "RELATING TO TRANSPORTATION.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Mass Transit",
+    "Non-Service Pet Animals",
+    "Service Animals"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Allows service and non-service pet animals on mass transit vehicles under certain conditions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "The committee on TCA deferred the measure.",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "deferral"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "The committee(s) on TCA has scheduled a public hearing on 02-06-25 3:00PM; Conference Room 224 & Videoconference.",
+      "date": "2025-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Referred to TCA, JDC.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Transportation and Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Introduced.",
+      "date": "2025-01-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "LEE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LEE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richards",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richards\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wakai",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wakai\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB1025",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1025_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/SB1025_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1025&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "TCA, JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "scraped_at": "2025-07-28T05:49:48+00:00",
+  "_id": "ac532232-6b76-11f0-998b-f6e0cb0ae75a"
+}

@@ -1,0 +1,69 @@
+{
+  "legislative_session": "2025",
+  "identifier": "GM640",
+  "title": "Letter dated 01-24-2025, correcting the term for the nomination to GM558, Gubernatorial Nominee to the Hawai'i Community Development Authority (Kalaeloa District), Gerald Gordner, term to expire amended to 06-30-2026.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proclamation"
+  ],
+  "subject": [
+    "Correcting the seat position on GM558",
+    "GOV",
+    "Ltr"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Received.",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "governor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"governor\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "GM640",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/GM640_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=640&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "scraped_at": "2025-07-28T05:53:22+00:00",
+  "_id": "2ba1b896-6b77-11f0-998b-f6e0cb0ae75a"
+}

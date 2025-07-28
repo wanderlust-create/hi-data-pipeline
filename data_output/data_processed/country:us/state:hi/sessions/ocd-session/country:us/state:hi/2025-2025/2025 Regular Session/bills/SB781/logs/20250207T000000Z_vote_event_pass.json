@@ -1,0 +1,69 @@
+{
+  "identifier": "",
+  "motion_text": "The committee(s) on  HWN recommend(s) that the measure be PASSED, WITH AMENDMENTS.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB781\", \"legislative_session__identifier\": \"2025\"}",
+  "bill_action": null,
+  "bill_identifier": "SB781",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Richards",
+      "voter_id": "~{\"name\": \"Richards\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "San Buenaventura",
+      "voter_id": "~{\"name\": \"San Buenaventura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ihara",
+      "voter_id": "~{\"name\": \"Ihara\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Keohokalole",
+      "voter_id": "~{\"name\": \"Keohokalole\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=781&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "2#SB781#2025-02-07#The committee(s) on  HWN recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HWN were as follows: 3 Aye(s): Senator(s) Richards, San Buenaventura, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Ihara, Keohokalole.",
+  "_id": "9386e04a-6b76-11f0-998b-f6e0cb0ae75a"
+}

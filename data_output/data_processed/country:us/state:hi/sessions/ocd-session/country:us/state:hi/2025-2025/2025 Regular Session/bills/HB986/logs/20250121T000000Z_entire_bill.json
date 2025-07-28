@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB986",
+  "title": "RELATING TO THE PESTICIDE USE REVOLVING FUND.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Department of Agriculture",
+    "Pesticide Use Revolving Fund",
+    "Pesticides"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Increases the ceiling of the pesticide use revolving fund.  Effective July 1, 2025."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Referred to AGR, FIN, referral sheet 3",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Agriculture & Food Systems",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Pending introduction.",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "NAKAMURA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"NAKAMURA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "SB 1305",
+      "legislative_session": "2025 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB986",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB986_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions//session2025/bills/HB986_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=986&year=2025",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "AGR, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "scraped_at": "2025-07-28T05:43:57+00:00",
+  "_id": "daf1a772-6b75-11f0-998b-f6e0cb0ae75a"
+}
